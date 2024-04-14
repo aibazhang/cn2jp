@@ -21,10 +21,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-editPost:
-    URL: "https://github.com/aibazhang/blog/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
+
 ---
 
 
@@ -353,3 +350,5 @@ editPost:
 
 到這裏所有的手續就都辦完了，前後跨度一年多，終於完成了整個歸化手續。
 如果你覺得這篇文章幫到了你，請分享給其他有需要的人。歡迎大家來一起完善這個攻略。
+
+[Suggest Changes](https://github.com/aibazhang/cn2jp/blob/master/README.md)
