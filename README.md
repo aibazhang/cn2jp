@@ -1,6 +1,34 @@
-# 🇯🇵潤日進階: 如何DIY歸化日籍🇯🇵
+---
+title: "潤日進階: 如何DIY歸化日籍🇯🇵"
+date: 2023-11-29T00:00:00+00:00
+tags: ["中文", "攻略"]
+author: "Me"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: ""
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+editPost:
+    URL: "https://github.com/aibazhang/blog/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
-本文可以轉載，但請附上這個repo的URL
+
+本文可以轉載，但請附上這個博客的URL
 
 ## 寫這篇文章的理由
 
@@ -15,7 +43,7 @@
 - 本文只談方法論，關於要不要「潤」以及日本適不適合潤等話題本文不做討論
 - 本文內容全部基於筆者自身2022-23年（或者更早）的經驗，可能會過時或者跟你的情況有所偏差，如果有事實性錯誤歡迎提出issue, PR
 - 也歡迎其他形式的PR
-- 歸化所需要的材料因人而異，作爲補充整理到了[cases](./cases/)裏，請對比閱讀
+- 歸化所需要的材料因人而異，作爲補充整理到了[cases](https://github.com/aibazhang/cn2jp/tree/master/cases/twitter)裏，請對比閱讀
 
 ---
 
@@ -102,7 +130,9 @@
 ### 例1 有日本留學經歷
 
 ```
-周樹人，於2016年10月來到日本念語言學校，其間他順利考上早稻田大學的修士，與2018年4月入學，2020年3月畢業之後從2020年4月起開始在株式会社XYZ工作。他想在法律層面上儘快脫離中國，因此想要在滿足條件之後立馬就進行申請。
+周樹人，於2016年10月來到日本念語言學校，其間他順利考上早稻田大學的修士，與2018年4月入學
+2020年3月畢業之後從2020年4月起開始在株式会社XYZ工作。
+他想在法律層面上儘快脫離中國，因此想要在滿足條件之後立馬就進行申請。
 ```
 
 按照上面講的至少五年居住其中三年納稅的原則，周樹人最早可以於2023年4月滿足條件進行歸化申請。然而第一次面談可以提前半年左右，也就是2022年10月他其實就可以去法務局面談，但想要面談的人很多而且需要提前預約，大概2022年6月左右就可以提前預約同年10月的歸化面談。
@@ -110,7 +140,8 @@
 ### 例2 沒有日本留學經歷
 
 ```
-周作人，於2018年4月辭掉中國國內Bilibaba公司程序員工作，入職了日本的Yine株式会社，從未出現過未繳納社保跟稅金的情況
+周作人，於2018年4月辭掉中國國內Bilibaba公司程序員工作，
+入職了日本的Yine株式会社，從未出現過未繳納社保跟稅金的情況
 ```
 
 同樣按照至少五年居住其中三年納稅的原則，周作人也是最早可以與2023年4月滿足條件。同理，2022年10月就可以去法務局面談。
@@ -322,7 +353,3 @@
 
 到這裏所有的手續就都辦完了，前後跨度一年多，終於完成了整個歸化手續。
 如果你覺得這篇文章幫到了你，請分享給其他有需要的人。歡迎大家來一起完善這個攻略。
-
-另外不介意的話可以買一杯咖啡☕支持我
-
-<a href="https://www.buymeacoffee.com/kinjo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
